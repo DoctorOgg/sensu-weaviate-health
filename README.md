@@ -52,7 +52,7 @@ If you're using an earlier version of sensuctl, you can find the asset on the [B
 type: CheckConfig
 api_version: core/v2
 metadata:
-  name: https://github.com/DoctorOgg/sensu-weaviate-health
+  name: sensu-weaviate-health
   namespace: default
 spec:
   command: sensu-weaviate-health -u http://localhost:8080
