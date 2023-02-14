@@ -40,7 +40,7 @@ consider doing so! If you're using sensuctl 5.13 with Sensu Backend 5.13 or late
 following command to add the asset:
 
 ```
-sensuctl asset add DoctorOgg/https://github.com/DoctorOgg/sensu-weaviate-health
+sensuctl asset add DoctorOgg/sensu-weaviate-health
 ```
 
 If you're using an earlier version of sensuctl, you can find the asset on the [Bonsai Asset Index][https://bonsai.sensu.io/assets/DoctorOgg/sensu-weaviate-health].
